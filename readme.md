@@ -62,9 +62,10 @@ It combines **threat intelligence, network scanning, and firewall automation** i
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/ai-incident-response-pro.git
-cd ai-incident-response-pro
-
+git clone https://github.com/ArjunBohara-CyberSecurity/CyberGate.git
+cd CyberGate
+python -m venv venv
+source venv/bin/activate
 pip install requests
 ```
 
@@ -85,7 +86,7 @@ export TELEGRAM_CHAT_ID="your_chat_id"
 ### 🛡 Run With Root Privileges
 
 ```bash
-sudo python3 main.py
+sudo python3 cybergate.py
 ```
 
 ---
