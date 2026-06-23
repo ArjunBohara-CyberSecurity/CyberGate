@@ -187,10 +187,9 @@ incident_log.json
 
 ---
 
-## 🧑‍💻 Contributors
+## 🧑‍💻 Developer
 
 * **Arjun Bohara**
-* **Krishna Sharma**
 
 ---
 
