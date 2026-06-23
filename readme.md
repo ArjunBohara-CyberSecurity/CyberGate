@@ -20,7 +20,7 @@
 
 ## 📌 Overview
 
-** Incident Response Assistant Pro** is an advanced cybersecurity CLI tool designed to:
+**Incident Response Assistant Pro** is an advanced cybersecurity CLI tool designed to:
 
 * Analyze suspicious IP addresses
 * Detect threats using real-time intelligence APIs
