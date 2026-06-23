@@ -1,27 +1,26 @@
-# 🚀 AI Incident Response Assistant Pro
+# 🚀 Incident Response Assistant Pro
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-3.+-yellow?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Platform-Linux-black?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/Security-AI%20Powered-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
 </p>
 
 <p align="center">
-  <b>AI-Powered Threat Intelligence & Automated Incident Response System</b><br>
+  <b> Threat Intelligence & Automated Incident Response System</b><br>
   <i>Analyze • Detect • Respond • Secure</i>
 </p>
 
 <p align="center">
-  ⚡ Real-Time Threat Detection • 🧠 AI-Driven Analysis • 🛡 Automated IP Isolation
+  ⚡ Real-Time Threat Detection • 🧠 Full Analysis • 🛡 Automated IP Isolation
 </p>
 
 ---
 
 ## 📌 Overview
 
-**AI Incident Response Assistant Pro** is an advanced cybersecurity CLI tool designed to:
+** Incident Response Assistant Pro** is an advanced cybersecurity CLI tool designed to:
 
 * Analyze suspicious IP addresses
 * Detect threats using real-time intelligence APIs
@@ -33,7 +32,7 @@ It combines **threat intelligence, network scanning, and firewall automation** i
 
 ## ✨ Features
 
-* 🧠 AI-Based Threat Analysis
+* 🧠 Threat Analysis
 * 🌍 IP Geolocation & ISP Intelligence
 * ⚠️ Abuse Confidence Scoring (AbuseIPDB)
 * 🔍 Common Port Scanning
@@ -169,7 +168,7 @@ incident_log.json
 ## 📡 Telegram Alerts
 
 ```
-🧠 AI INCIDENT RESPONSE
+🧠 CYBERGATE INCIDENT RESPONSE
 
 🌐 IP: x.x.x.x  
 ⚠️ Threat Score: 85/100  
