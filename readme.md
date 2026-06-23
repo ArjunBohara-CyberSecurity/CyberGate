@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Python-3+-yellow?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Platform-Linux-black?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/Security-AI%20Powered-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
