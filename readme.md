@@ -64,6 +64,7 @@ It combines **threat intelligence, network scanning, and firewall automation** i
 ```bash
 git clone https://github.com/ArjunBohara-CyberSecurity/CyberGate.git
 cd CyberGate
+mv env.txt .env
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
